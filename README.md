@@ -9,7 +9,12 @@ I really enjoy video games and this experience motivated me even more to become 
 While building this game I learned and understood many important concepts in Unity including game objects UI collision and scripting
 This is just the beginning and I believe I have great potential to keep learning and developing even more complex and fun games in the future
 
-Note: If you go to the settings menu you will see a question mark button
+Note:
+If you go to the settings menu you will see a question mark button
 Click it to get an explanation about what the game is about and how to play it
+
+Also you will find a Score 150 button
+Clicking it will show you all the elements I added to the game
+As you score more points more elements will start falling from the top of the screen making the game harder and more exciting
 
 Enjoy playing
